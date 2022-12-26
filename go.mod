@@ -1,5 +1,3 @@
-module github.com/pyzhyk/CarRentDubai
+module github.com/nunocoracao/blowfish/v2
 
-go 1.17
-
-require github.com/nunocoracao/blowfish v1.9.0 // indirect
+go 1.16
